@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio page. This site was created as part of the "Application of AI in Business" course in my MBA program. It showcases my education, professional experience, and key skills in AI, data analytics, and business strategy.
 
-🔗 **Live Portfolio:** [https://yourusername.github.io/mba-portfolio/](https://yourusername.github.io/mba-portfolio/)
+🔗 **Live Portfolio:** https://samia2526.github.io/MBA_Portfolio/
 
 ## 📄 Technologies Used
 
