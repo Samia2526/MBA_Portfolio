@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-image: url("paper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  color: #222;
+  padding: 2rem;
+}
+
+/* Hero Box Styling */
+.hero-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero-box h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-box p,
+.hero-box a {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  display: block;
+}
+
+.hero-box a {
+  color: #006699;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero-box a:hover {
+  text-decoration: underline;
+}

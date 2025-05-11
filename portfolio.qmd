@@ -1,0 +1,77 @@
+---
+title: ""
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: false
+    self-contained: true
+---
+
+::: {.hero-box}
+
+# Samia Araujo  
+**MBA Candidate | AI & Business Strategy Enthusiast**
+
+Helping businesses use AI responsibly to drive sustainability and innovation.
+
+[About Me](#about-me) | [Contact](#contact)
+
+📧 samia.araujo@gmail.com  
+
+
+:::
+
+## About Me {#about-me}
+
+I’m an MBA student at University Canada West, a creative problem-solver that loves to look deep into the details to find good solutions. I am passionate about learning and understanding new things. With a background in finance and public service, I bring more than 10 years of real-world experience in high-stakes environments. My goal is to leverage innovative technologies and insights from data analytics to design personalized, sustainable, and impactful strategies for modern organizations.
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+_University Canada West, Vancouver, BC_  
+2023 – Present  
+- Focus: AI Applications in Business, Cloud Computing, Sustainable Finance  
+- Projects: AWS-based analytics platform, Strategic AI implementation for Netflix
+
+**Bachelor’s Degree in Biomedicine**  
+_Universidade Federal de Pernambuco – Recife, Brasil_  
+2006 – 2010  
+- Relevant coursework: Economics, Business Analytics
+
+---
+
+## Professional Experience
+
+**Police Officer – Finance & HR Division**  
+_Public Safety Department - Ceará,Brasil_  
+2013 – 2023  
+- Led budgeting and personnel planning for a division of over 200 employees.
+- Introduced data visualization dashboards for resource allocation. 
+- Oversaw compliance and auditing procedures.
+
+**Project Management (MBA Practicum)**  
+_Retail Store Launch Project_  
+2024  
+- Developed a detailed project plan to launch a retail clothing store.  
+- Conducted scope definition, WBS creation, risk analysis, stakeholder engagement, and resource scheduling, ensuring timely and within-budget project delivery.
+
+---
+
+## Key Skills & Strengths
+
+- **AI & Data Analytics**: Python, AWS (Glue, Athena, Redshift), SQL  
+- **Strategic Thinking**: Business Model Canvas, TOWS, Issue Tree  
+- **Project Management**: Agile, WBS, Risk Assessment  
+- **Communication**: Report writing, stakeholder engagement, cross-functional collaboration  
+- **Sustainability & ESG**: Financial impact analysis, CSR evaluation, green finance
+- Languages: Portuguese (native), English (fluent) 
+
+---
+
+## Contact {#contact}
+
+Feel free to connect:  
+📧 samia.araujo@gmail.com
